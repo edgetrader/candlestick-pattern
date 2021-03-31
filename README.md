@@ -8,7 +8,7 @@ This analysis follows the steps found in the article "[Recognizing over 50 Candl
 Candlestick patterns is one of many features for machine learning modeling work to predict time-series returns of investible assets like shares, currency, cryptos, etc.
 
 ## Notebook
-1. 
+1. https://github.com/edgetrader/candlestick-pattern/blob/master/notebook/candlestick-pattern.ipynb
 
 ## Reference
 1. https://medium.com/analytics-vidhya/recognizing-over-50-candlestick-patterns-with-python-4f02a1822cb5

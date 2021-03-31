@@ -1,6 +1,4 @@
 # Candlestick Pattern Detection
-by Chee-Foong 
-
 
 ## Summary 
 This analysis follows the steps found in the article "[Recognizing over 50 Candlestick Patterns with Python](https://medium.com/analytics-vidhya/recognizing-over-50-candlestick-patterns-with-python-4f02a1822cb5)" by **Caner Irfanoglu**.  I thank him for making his work public.
